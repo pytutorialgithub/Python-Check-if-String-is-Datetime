@@ -122,7 +122,7 @@ except ValueError:
 
 
 
-# -- 👇 Chack DateTime Format Y-M-D Using datetime()  👇 -- #
+# -- 👇 Check DateTime Format Y-M-D Using datetime()  👇 -- #
 
 from datetime import datetime # 👉️ Import datetime() module
 
