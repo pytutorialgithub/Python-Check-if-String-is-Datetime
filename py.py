@@ -2,7 +2,7 @@
 
 
 
-# -- 👇 Check DateTime Using parser()  👇 -- #
+# -- 👇 Check DateTime Using parse()  👇 -- #
 
 from dateutil.parser import parse # 👉️ Import parse() module
 
@@ -22,7 +22,7 @@ except ValueError:
 
 
 
-# -- 👇 Check DateTime Using parser() Year/Month/Day Format 👇 -- #
+# -- 👇 Check DateTime Using parse() Year/Month/Day Format 👇 -- #
 
 from dateutil.parser import parse # 👉️ Import parse() module
 
@@ -62,7 +62,7 @@ except ValueError:
 
 
 
-# -- 👇 Check DateTime Using parse() Year/Month/Day Hours:Minutes PM/AM 👇 -- #
+# -- 👇 Check DateTime Using parse() Year/Month/Day Hours:Minutes AM/PM format 👇 -- #
 
 from dateutil.parser import parse # 👉️ Import parse() module
 
@@ -122,7 +122,7 @@ except ValueError:
 
 
 
-# -- 👇 Check DateTime Format Y-M-D Using datetime()  👇 -- #
+# -- 👇 Check DateTime Format is Y-M-D Using datetime()  👇 -- #
 
 from datetime import datetime # 👉️ Import datetime() module
 
@@ -142,7 +142,7 @@ except ValueError:
 
 
 
-# -- 👇 Chack DateTime Format Year-Month-Day Using datetime()  👇 -- #
+# -- 👇 Cjeck DateTime Format is Year-Month-Day Using datetime()  👇 -- #
 
 from datetime import datetime # 👉️ Import datetime() module
 
@@ -162,7 +162,7 @@ except ValueError:
 
 
 
-# -- 👇 Chack DateTime Format Y-M-D H:M Using datetime()  👇 -- #
+# -- 👇 Check DateTime Format is Y-M-D H:M Using datetime()  👇 -- #
 
 from datetime import datetime # 👉️ Import datetime() module
 
@@ -183,7 +183,7 @@ except ValueError:
 
 
 
-# -- 👇 Chack Date Format Y-M-D H:M Using datetime()  👇 -- #
+# -- 👇 Check DateTime Format is Y-M-D H:M Using datetime()  👇 -- #
 
 from datetime import datetime # 👉️ Import datetime() module
 
